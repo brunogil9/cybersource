@@ -1,0 +1,74 @@
+{
+	"id": "743027ef-ab6a-4fda-88bf-38b44335c484",
+	"name": "CAS/SANDBOX",
+	"values": [
+		{
+			"key": "key-id",
+			"value": "08c94330-f618-42a3-b09d-e1e43be5efda",
+			"enabled": true
+		},
+		{
+			"key": "shared-secret",
+			"value": "yBJxy6LjM2TmcPGu+GaJrHtkke25fPpUX+UY6/L/1tE=",
+			"enabled": true
+		},
+		{
+			"key": "signingBase",
+			"value": "host: apitest.cybersource.com\ndate: Wed, 03 Oct 2018 22:09:43 GMT\n(request-target): post /flex/v1/keys\ndigest: SHA-256=LWhOU4UoYkXBkoVvrcA4MFWIbU6pKS+k09u5/019fis=\nv-c-merchant-id: testrest",
+			"enabled": true
+		},
+		{
+			"key": "CYBERSOURCE.ENVIRONMENT",
+			"value": "apitest.cybersource.com",
+			"enabled": true
+		},
+		{
+			"key": "CYBERSOURCE.v-c-merchant-id",
+			"value": "testrest",
+			"enabled": true
+		},
+		{
+			"key": "computed-digest",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "current-date",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "httpsig",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "request.data",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "target-url",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "insTokenId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "paymentId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "payTokenId",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-08-04T21:21:40.360Z",
+	"_postman_exported_using": "Postman/10.16.8-230804-0901"
+}
